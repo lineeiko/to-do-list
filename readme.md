@@ -6,7 +6,7 @@
 
 Projeto construído do Desafio Programando Na Prática da Driven Education.
 
-[🔗 Clique aqui para acessar](https://lineeiko.github.io/To-do-list/)
+[🔗 Clique aqui para acessar](https://lineeiko.github.io/to-do-list/)
 
 
 ## 🛠 Tecnologias
